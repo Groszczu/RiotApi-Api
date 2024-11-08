@@ -7,7 +7,7 @@
 
     <ItemGroup>
       <PackageReference Include="Microsoft.Extensions.Configuration" Version="5.0.0-preview.3.20215.2" />
-      <PackageReference Include="Refit" Version="5.1.67" />
+      <PackageReference Include="Refit" Version="7.2.22" />
     </ItemGroup>
 
     <ItemGroup>
